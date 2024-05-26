@@ -3,12 +3,12 @@
 Book Management System
 This is a simple web-based book management system developed using JSP (JavaServer Pages), JDBC (Java Database Connectivity), and MySQL.
 
-Features
+## Features
 Book Entry Form: Allows users to input book details such as book ID, title, author, price, condition, publication year, and seller contact information.
 User Authentication: Provides a login page for users to authenticate using their roll number and password.
 Database Interaction: Utilizes MySQL database to store book and user information.
 Password Validation: Ensures that passwords meet certain criteria such as minimum length, presence of uppercase and lowercase letters, numbers, and special characters.
-Files
+## Files
 The project consists of the following files:
 
 homepage.html: HTML file containing the book entry form.
@@ -28,7 +28,10 @@ Usage
 Access the homepage (homepage.html) to input book details and submit them to the database.
 Use the login page (login.html) to authenticate as a user.
 Upon successful authentication, users will be redirected to the book entry form (index.jsp).
-Contributing
+
+
+
+## Contributing
 
 Shounak Das HU21CSEN101182
 Abhishek Das HU21CSEN101883
